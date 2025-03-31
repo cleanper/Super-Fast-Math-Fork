@@ -10,3 +10,5 @@
  </div>
   <br>
 Super Fast Math is a lightweight Fabric mod designed to enhance the performance of trigonometric calculations in Minecraft. By replacing the standard sine and cosine functions with a precomputed lookup table which is faster computed than a normal table thanks to java FastMath and dynamical initialisation, it significantly reduces computation time, resulting in smoother and faster mathematical operations.
+
+Fabric
